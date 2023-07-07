@@ -1,5 +1,5 @@
 # Kopp
-Um programa com exercicío de programação e banco de dados feito a partir de um desafio técnico!
+Um programa com exercício de programação e banco de dados feito a partir de um desafio técnico!
 
 Exercício 1:
 
